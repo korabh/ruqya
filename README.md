@@ -32,3 +32,6 @@ Once you have downloaded or cloned this repository, run `npm install` inside the
 - [React-native-slider](https://github.com/jeanregisser/react-native-slider) 
 - [React-native-sound](https://github.com/zmxv/react-native-sound) 
 - [React-native-vector-icons](https://github.com/oblador/react-native-vector-icons) 
+
+##License
+MIT
