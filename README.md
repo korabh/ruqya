@@ -11,8 +11,8 @@ A [React-Native](https://github.com/facebook/react-native) application for both 
 
 ![iOS Preview Gif 1](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(1).gif "iOS Preview Gif 1")
 ![iOS Preview Gif 2](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(2).gif "iOS Preview Gif 2")
-![iOS Preview Gif 3](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(3).gif"iOS Preview Gif 3")
-![iOS Preview Gif 3](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(4).gif"iOS Preview Gif 4")
+![iOS Preview Gif 3](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(3).gif "iOS Preview Gif 3")
+![iOS Preview Gif 3](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(4).gif "iOS Preview Gif 4")
 
 ##Installation
 
