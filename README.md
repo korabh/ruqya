@@ -4,8 +4,19 @@ A [React-Native](https://github.com/facebook/react-native) application for both 
 
 ##DEMO
 
-[![App Store Button](http://imgur.com/y8PTxr9.png "App Store Button")](https://itunes.apple.com/ca/app/hacker-news-reader-react-native/id1067161633?mt=8)
-[![Play Store Button](http://imgur.com/utWa1co.png "Play Store Button")](https://play.google.com/store/apps/details?id=com.hackernews)
+[![App Store Button](http://imgur.com/y8PTxr9.png "App Store Button")](https://itunes.apple.com/us/app/ruqya/id1149892816?mt=8)
+[![Play Store Button](http://imgur.com/utWa1co.png "Play Store Button")](https://play.google.com/store/apps/details?id=com.randroid)
+
+## iOS App Preview
+
+![iOS Preview Gif 1](http://imgur.com/8OV8MVj.gif "iOS Preview Gif 1")
+![iOS Preview Gif 2](http://imgur.com/9mrmir9.gif "iOS Preview Gif 2")
+![iOS Preview Gif 3](http://imgur.com/KuySKlC.gif "iOS Preview Gif 3")
+
+## Android App Preview
+
+![Android Preview Gif 1](http://i.imgur.com/88ZW3Ls.gif "Android Preview Gif 1")
+![Android Preview Gif 2](http://i.imgur.com/DWjd4zM.gif "Android Preview Gif 2")
 
 ##Installation
 
