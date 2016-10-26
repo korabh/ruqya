@@ -9,10 +9,8 @@ A [React-Native](https://github.com/facebook/react-native) application for both 
 
 ## iOS App Preview
 
-![iOS Preview Gif 1](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(1).gif "Download online assets")
-![iOS Preview Gif 2](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(2).gif "Play a ruqya")
-![iOS Preview Gif 3](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(3).gif "Player Screen")
-![iOS Preview Gif 3](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(4).gif "Music Control in iOS")
+![iOS Preview Gif 1](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(4).gif "Media controller in iOS")
+![iOS Preview Gif 2](https://s3.eu-central-1.amazonaws.com/ruqyah/gifs/ezgif.com-resize+(3).gif "Player Screen")
 
 ##Installation
 
