@@ -21,3 +21,14 @@ Once you have downloaded or cloned this repository, run `npm install` inside the
 - [Setting up React Native for Android](https://facebook.github.io/react-native/docs/android-setup.html#content)
 - [Running app on Android Device](https://facebook.github.io/react-native/docs/running-on-device-android.html#content)
 - [Running app on iOS Device](https://facebook.github.io/react-native/docs/running-on-device-ios.html#content)
+
+##Thanks
+- [React-Native](https://github.com/facebook/react-native)
+- [React-Native-FS](https://github.com/johanneslumpe/react-native-fs)
+- [React-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient) 
+- [React-native-music-control](https://github.com/tanguyantoine/react-native-music-control) 
+- [React-native-progress](https://github.com/oblador/react-native-progress) 
+- [React-native-router-flux](https://github.com/aksonov/react-native-router-flux) 
+- [React-native-slider](https://github.com/jeanregisser/react-native-slider) 
+- [React-native-sound](https://github.com/zmxv/react-native-sound) 
+- [React-native-vector-icons](https://github.com/oblador/react-native-vector-icons) 
